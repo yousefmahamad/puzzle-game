@@ -34,6 +34,7 @@ Follow us on social media for more updates and games:
 - Twitter: [@yousefmohamad_](https://twitter.com/yousefmohamad_)
 - Facebook: [Yousef Mohamad Abdala](https://www.facebook.com/profile.php?id=100075281388722)
 - Instagram: [yavi.exe](https://www.instagram.com/yavi.exe/)
+- buymeacoffee: [Yousef Mohamad](https://www.buymeacoffee.com/yavi)
 
 ## License
 
